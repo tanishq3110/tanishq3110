@@ -1,4 +1,4 @@
-# Hi, I'm Tanishq Bawa 👋
+# Hi, I'm Tanishq 👋
 
 ### B.Tech CSE Student | Full-Stack Developer | DevOps Enthusiast | Gen AI Learner
 
@@ -79,13 +79,16 @@ manage and track their retirement goals.
 
 ---
 
-### 🏠 House Price Predictor
+### 🏠 HouseIQ — House Price Predictor
 
-A machine learning application that predicts California housing prices
-using regression techniques and provides predictions through a Streamlit
-web application.
+A full-stack machine learning web application that predicts house prices in real time using a **200-tree Random Forest Regressor** trained on the **California Housing dataset** and engineered property features.
 
-**Tech:** Python • Pandas • NumPy • Machine Learning • Streamlit
+- 🤖 Built a Random Forest regression model with **200 trees** for house price prediction.
+- ⚙️ Developed a **Flask REST API** that returns a point price estimate, **10th–90th percentile confidence range** based on per-tree predictions, and live feature-importance breakdown.
+- 🎨 Built a responsive and animated frontend using **HTML, CSS, JavaScript, and Chart.js**.
+- 📊 Added interactive property sliders for real-time price prediction, confidence-range visualization, and feature-importance analysis.
+
+**Tech:** Python • Flask • Scikit-learn • Random Forest • HTML • CSS • JavaScript • Chart.js
 
 ---
 
