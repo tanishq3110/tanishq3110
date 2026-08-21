@@ -1,4 +1,4 @@
-# Hi, I'm Tanishq Bawa 👋
+# Hi, I'm Tanishq 👋
 
 ### B.Tech CSE Student | Full-Stack Developer | DevOps Enthusiast | Gen AI Learner
 
