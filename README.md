@@ -1,167 +1,91 @@
-# Hi, I'm Tanishq 👋
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0284c7&height=220&section=header&text=Hi%20There%2C%20I'm%20Tanishq%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20CSE%20Student%20%7C%20Full-Stack%20Developer%20%7C%20DevOps%20Enthusiast%20%7C%20Gen%20AI%20Learner&descAlignY=55&descSize=18" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student+%7C+Full-Stack+Developer;Building+with+MERN%2C+Python%2C+Docker+%26+DevOps;Learning+Kubernetes%2C+Terraform+%26+Generative+AI;Open+to+Full-Stack+%2F+Backend+%2F+DevOps+Roles" alt="Typing SVG" /> <img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=handshake&logoColor=black" alt="Open to Work"/> <img src="https://komarev.com/ghpvc/?username=tanishq3110&label=Profile%20Views&color=7DD3FC&style=for-the-badge" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/tanishq3110?label=Followers&style=for-the-badge&color=7DD3FC" alt="Followers"/> </div>
+👨‍💻 Who I Am
+typescript
+const tanishq = {
+  title: "B.Tech CSE Student | Full-Stack Developer | DevOps Enthusiast | Gen AI Learner",
+  stack: {
+    languages: ["Python", "C++", "Java", "JavaScript"],
+    frontend: ["HTML5", "CSS3", "React", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "Flask", "Django"],
+    databases: ["MongoDB", "MySQL", "SQLite"],
+    devops: ["Linux", "Git", "GitHub", "Docker", "Jenkins", "Terraform", "Kubernetes"],
+    dataAndAI: ["NumPy", "Pandas"],
+  },
+  launchedProjects: [
+    "Self-Healing Infrastructure",
+    "Retire Assist",
+    "HouseIQ — House Price Predictor",
+    "Node.js Docker CI/CD",
+    "Django Notes App",
+    "Server Performance Stats",
+  ],
+  currentlyLearning: ["Kubernetes", "Terraform", "CI/CD & DevOps", "Cloud Fundamentals", "Generative AI"],
+  status: "Building practical applications & exploring automation, infra, and Gen AI",
+  openTo: ["Full-Stack Development", "Backend Development", "DevOps & Infrastructure", "Cloud Technologies", "Generative AI"],
+};
+🚀 Featured Projects
+💰 Retire Assist
 
-### B.Tech CSE Student | Full-Stack Developer | DevOps Enthusiast | Gen AI Learner
+A MERN-based retirement planning platform designed to help users plan, manage and track their retirement goals.
 
-I'm a Computer Science student who enjoys building practical applications and
-exploring how software can be developed, automated, deployed, and improved.
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishq3110&repo=retire-Assist&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Retire Assist"/>
+Layer	Technology
+Database	MongoDB
+Backend	Express.js, Node.js
+Frontend	React
 
-- 🚀 Building projects with MERN, Python, Docker and DevOps tools
-- 🌱 Currently learning Kubernetes, Terraform and Generative AI
-- 💡 Interested in Full-Stack Development, Backend Development and DevOps
-- 🔧 Enjoy working on automation, infrastructure and real-world projects
-- 🤝 Open to collaborating on interesting development projects
+🔗 Code
 
----
+🔧 Self-Healing Infrastructure
 
-## 🛠️ Tech Stack
+An automated infrastructure monitoring and recovery system designed to detect system issues and perform automated recovery actions.
 
-### 💻 Languages
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishq3110&repo=self-healing-infra&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Self-Healing Infrastructure"/>
+Layer	Technology
+Language	Python
+OS / Scripting	Linux, Bash
+Containerization	Docker
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+🔗 Code
 
-### 🎨 Frontend
+🏠 HouseIQ — House Price Predictor
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+A full-stack machine learning web application that predicts house prices in real time using a 200-tree Random Forest Regressor trained on the California Housing dataset and engineered property features.
 
-### ⚙️ Backend
+🤖 Built a Random Forest regression model with 200 trees for house price prediction.
+⚙️ Developed a Flask REST API that returns a point price estimate, 10th–90th percentile confidence range based on per-tree predictions, and live feature-importance breakdown.
+🎨 Built a responsive and animated frontend using HTML, CSS, JavaScript, and Chart.js.
+📊 Added interactive property sliders for real-time price prediction, confidence-range visualization, and feature-importance analysis.
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishq3110&repo=house-price-predictor&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="HouseIQ"/>
+Layer	Technology
+ML Model	Python, Scikit-learn, Random Forest
+Backend	Flask (REST API)
+Frontend	HTML, CSS, JavaScript, Chart.js
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+🔗 Code
 
-### 🗄️ Databases
+🛠️ Tech Stack
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+Languages
 
-### 🚀 DevOps & Tools
+<img src="https://skillicons.dev/icons?i=py,cpp,java,js" />
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+Frontend
 
-### 🤖 Data & AI
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+Backend / Infra
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,docker,jenkins,linux,git,github,terraform,kubernetes" />
 
-## 🚀 Featured Projects
+AI / Databases
 
-### 🔧 Self-Healing Infrastructure
-
-An automated infrastructure monitoring and recovery system designed to
-detect system issues and perform automated recovery actions.
-
-**Tech:** Python • Linux • Bash • Docker
-
----
-
-### 💰 Retire Assist
-
-A MERN-based retirement planning platform designed to help users plan,
-manage and track their retirement goals.
-
-**Tech:** MongoDB • Express.js • React • Node.js
-
----
-
-### 🏠 HouseIQ — House Price Predictor
-
-A full-stack machine learning web application that predicts house prices in real time using a **200-tree Random Forest Regressor** trained on the **California Housing dataset** and engineered property features.
-
-- 🤖 Built a Random Forest regression model with **200 trees** for house price prediction.
-- ⚙️ Developed a **Flask REST API** that returns a point price estimate, **10th–90th percentile confidence range** based on per-tree predictions, and live feature-importance breakdown.
-- 🎨 Built a responsive and animated frontend using **HTML, CSS, JavaScript, and Chart.js**.
-- 📊 Added interactive property sliders for real-time price prediction, confidence-range visualization, and feature-importance analysis.
-
-**Tech:** Python • Flask • Scikit-learn • Random Forest • HTML • CSS • JavaScript • Chart.js
-
----
-
-### 🐳 Node.js Docker CI/CD
-
-A containerized Node.js application with an automated CI/CD pipeline for
-building and deploying the application.
-
-**Tech:** Node.js • Docker • GitHub Actions
-
----
-
-### 📝 Django Notes App
-
-A full-stack notes application built with Django and MySQL and
-containerized using Docker Compose.
-
-**Tech:** Django • MySQL • Docker • Docker Compose • Nginx
-
----
-
-### 📊 Server Performance Stats
-
-A Linux-based monitoring tool that tracks server performance and system
-resource usage using Bash scripting.
-
-**Tech:** Linux • Bash • Shell Scripting
-
----
-
-## 📚 Currently Learning
-
-- ☸️ Kubernetes
-- 🏗️ Terraform
-- 🔄 CI/CD & DevOps
-- ☁️ Cloud Fundamentals
-- 🤖 Generative AI
-
----
-
-## 🎯 Career Interests
-
-I'm interested in opportunities related to:
-
-- 💻 Full-Stack Development
-- ⚙️ Backend Development
-- 🚀 DevOps & Infrastructure
-- ☁️ Cloud Technologies
-- 🤖 Generative AI
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/tanishq3110">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tanishq-bawa-b8335a261/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐️ Thanks for visiting my profile!
-
----
-
-## 📫 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/tanishq-bawa-b8335a261/) • [Email](bawatanishq@gmail.com)
-
----
-
-⭐ Feel free to explore my repositories and projects!
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,py" />
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tanishq3110&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq3110&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" height="165"/> <img src="https://streak-stats.demolab.com?user=tanishq3110&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/> </div>
+🏆 Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tanishq3110&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/> </div>
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishq3110&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/> </div>
+🤝 Connect With Me
+<p align="center"> <a href="https://github.com/tanishq3110"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/tanishq-bawa-b8335a261/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:bawatanishq@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
