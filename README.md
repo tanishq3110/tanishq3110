@@ -1,61 +1,128 @@
-# Hi, I'm Tanishq 👋
+# Hi, I'm Tanishq Bawa 👋
 
-### B.Tech CSE Student | Full-Stack Developer | DevOps Enthusiast
+### B.Tech CSE Student | Full-Stack Developer | DevOps Enthusiast | Gen AI Learner
 
-🚀 Building projects with **MERN, Python and DevOps tools**  
-☁️ Interested in **Cloud, DevOps & Generative AI**  
-📚 Currently learning **Kubernetes, Terraform & Generative AI**
+I'm a Computer Science student who enjoys building practical applications and
+exploring how software can be developed, automated, deployed, and improved.
+
+- 🚀 Building projects with MERN, Python, Docker and DevOps tools
+- 🌱 Currently learning Kubernetes, Terraform and Generative AI
+- 💡 Interested in Full-Stack Development, Backend Development and DevOps
+- 🔧 Enjoy working on automation, infrastructure and real-world projects
+- 🤝 Open to collaborating on interesting development projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-Python • C++ • Java • JavaScript
+### 💻 Languages
 
-### Frontend
-HTML • CSS • JavaScript • React • Tailwind CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend
-Node.js • Express.js • Flask • Django
+### 🎨 Frontend
 
-### Databases
-MongoDB • MySQL • SQLite
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### DevOps & Cloud
-Linux • Git • GitHub • Docker • Jenkins • Terraform • AWS • Kubernetes
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🚀 DevOps & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🤖 Data & AI
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔧 Self-Healing Infrastructure
-Automated infrastructure monitoring and recovery system using Python, Linux, Bash scripting and Docker.
+
+An automated infrastructure monitoring and recovery system designed to
+detect system issues and perform automated recovery actions.
+
+**Tech:** Python • Linux • Bash • Docker
+
+---
 
 ### 💰 Retire Assist
-A MERN-based retirement planning platform designed to help users plan and manage their retirement goals.
+
+A MERN-based retirement planning platform designed to help users plan,
+manage and track their retirement goals.
+
+**Tech:** MongoDB • Express.js • React • Node.js
+
+---
 
 ### 🏠 House Price Predictor
-Machine learning project that predicts California housing prices using regression techniques with a Streamlit web application.
 
-### 🐳 Node Docker CI/CD
-Containerized Node.js application with an automated CI/CD pipeline using Docker and GitHub Actions.
+A machine learning application that predicts California housing prices
+using regression techniques and provides predictions through a Streamlit
+web application.
+
+**Tech:** Python • Pandas • NumPy • Machine Learning • Streamlit
+
+---
+
+### 🐳 Node.js Docker CI/CD
+
+A containerized Node.js application with an automated CI/CD pipeline for
+building and deploying the application.
+
+**Tech:** Node.js • Docker • GitHub Actions
+
+---
 
 ### 📝 Django Notes App
-Full-stack notes application built with Django, MySQL and Docker Compose.
+
+A full-stack notes application built with Django and MySQL and
+containerized using Docker Compose.
+
+**Tech:** Django • MySQL • Docker • Docker Compose • Nginx
+
+---
 
 ### 📊 Server Performance Stats
-Linux-based server monitoring tool that tracks system performance using Bash scripting.
+
+A Linux-based monitoring tool that tracks server performance and system
+resource usage using Bash scripting.
+
+**Tech:** Linux • Bash • Shell Scripting
 
 ---
 
 ## 📚 Currently Learning
 
-- ☁️ Cloud & AWS
-- ⚙️ Kubernetes
+- ☸️ Kubernetes
 - 🏗️ Terraform
-- 🤖 Generative AI
 - 🔄 CI/CD & DevOps
+- ☁️ Cloud Fundamentals
+- 🤖 Generative AI
 
 ---
 
@@ -63,10 +130,37 @@ Linux-based server monitoring tool that tracks system performance using Bash scr
 
 I'm interested in opportunities related to:
 
-- Full-Stack Development
-- Backend Development
-- DevOps & Cloud
-- Generative AI
+- 💻 Full-Stack Development
+- ⚙️ Backend Development
+- 🚀 DevOps & Infrastructure
+- ☁️ Cloud Technologies
+- 🤖 Generative AI
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanishq3110&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq3110&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/tanishq3110">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tanishq-bawa-b8335a261/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐️ Thanks for visiting my profile!
 
 ---
 
