@@ -150,35 +150,6 @@ Full-Stack Development • Backend Development • DevOps & Infrastructure • C
 
 ---
 
-# 📈 GitHub Activity
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tanishq3110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="170"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq3110&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tanishq3110&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-
-</div>
-
----
-
 # 🤝 Connect With Me
 
 <div align="center">
