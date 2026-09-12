@@ -59,15 +59,6 @@
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishq3110&show_icons=true&theme=transparent&hide_border=true&title_color=2496ED&icon_color=2496ED" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishq3110&theme=transparent&hide_border=true&title_color=2496ED&icon_color=2496ED" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔧 Self-Healing Infrastructure
