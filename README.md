@@ -1,16 +1,13 @@
 <div align="center">
 
-  <!-- Animated Background -->
+  <!-- Animated Header -->
   <img
-    src="./assets/animated-bg.svg"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:062B4F,65:0B5CAD,100:2496ED&height=230&section=header&text=Hi%2C%20I'm%20Tanishq%20👋&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=twinkling"
     width="100%"
-    alt="Animated Developer Background"
+    alt="Tanishq"
   />
 
-  <br>
-
-  <h1>Hi, I'm Tanishq 👋</h1>
-
+  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Full-Stack+Developer;DevOps+Enthusiast;Gen+AI+Learner"
